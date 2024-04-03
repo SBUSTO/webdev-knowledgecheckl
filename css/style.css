@@ -45,6 +45,7 @@ body {
     align-items: center;
     padding: 12px;
     margin: 0;
+
 }
 
 .hero-container {
@@ -57,6 +58,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    filter: brightness(80%);
+    
 }
 
 .hero-content {
@@ -65,6 +68,8 @@ body {
     text-align: center;
     padding: 24px;
     margin: 0 auto;
+    background-color: rgba(0, 0, 11, 0.63);
+    filter: brightness(170%);
 }
 
 .aboutme-container {
@@ -287,6 +292,9 @@ footer {
 .contact-container {
     text-align: center;
 }
+
+
+
 /* Images and Videos
 ========================================================================== */
 
